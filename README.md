@@ -1,6 +1,6 @@
 <div>
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Good%20to%20see%20you-nl-I%20am%200628emj)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Good%20to%20see%20you!\nI%20am%20MJ)
   
 </div>
 
