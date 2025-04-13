@@ -1,31 +1,29 @@
 <div>
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97-nl-I%20am%200628emj)
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Good%20to%20see%20you-nl-I%20am%200628emj)
   
 </div>
 
 <div>
   <!--Body-->
-  ## 👀 About Me
-  #### :raising_hand: I am a student majoring in computer science.<br/>
-  #### :fire: I aim to become a embedded engineer.<br/>
-  <br/>
-  <br/>
+## 👀 About Me
+- :raising_hand: I'm a computer science student.
+- :fire: Aspiring to become an embedded engineer.
   
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <br/>
-  <br/>
+## 🧱 Tech Stack
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0628emj)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0628emj)](https://github.com/anuraghazra/github-readme-stats)
-  
+## 🤔 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0628emj&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0628emj&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <!--
