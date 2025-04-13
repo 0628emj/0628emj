@@ -12,15 +12,11 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"/>
 
-## 🤔 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app /
-
-api?username=0628emj&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0628emj&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
+## 🤔 Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0628emj)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0628emj)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ## 📫 Contact Me
 - Email: 22112028@yu.ac.kr
-
-![Profile views](https://komarev.com/ghpvc/?username=0628emj&color=blue)
